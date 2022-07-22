@@ -9,7 +9,7 @@ const Amenities = () => {
           <div className="row text-center">
             <div className="col-lg-6 col-md-6 mb-3">
               <div className="card">
-                <img className="card-img-top expert-image" src="images/fullPitch.jpg" alt="Card image cap"/>
+                <img className="card-img-top expert-image" src="images/fullPitch.jpg" alt=""/>
                 <div className="card-body">
                   <h4 className="card-title"> Full Sized Pitch </h4>
                   {/* <p className="card-text">Remember to put more information</p> */}
@@ -18,7 +18,7 @@ const Amenities = () => {
             </div>
             <div className="col-lg-6 col-md-6 mb-3">
               <div className="card">
-                <img className="card-img-top expert-image" src="images/miniPitch.jpg" alt="Card image cap"/>
+                <img className="card-img-top expert-image" src="images/miniPitch.jpg" alt=""/>
                 <div className="card-body">
                   <h4 className="card-title"> Mini Pitch </h4>
                   {/* <p className="card-text">Remember to put more information</p> */}
@@ -28,7 +28,7 @@ const Amenities = () => {
     
             <div className="col-lg-6 col-md-6 mb-3">
               <div className="card">
-                <img className="card-img-top expert-image" src="images/cafeAndLounge.jpg" alt="Card image cap"/>
+                <img className="card-img-top expert-image" src="images/cafeAndLounge.jpg" alt=""/>
                 <div className="card-body">
                   <h4 className="card-title"> Cafe and Lounges </h4>
                   {/* <p className="card-text">Remember to put more information</p> */}
@@ -38,7 +38,7 @@ const Amenities = () => {
     
             <div className="col-lg-6 col-md-6 mb-3">
               <div className="card">
-                <img className ="card-img-top expert-image" src="images/spasAndShower.jpg" alt="Card image cap"/>
+                <img className ="card-img-top expert-image" src="images/spasAndShower.jpg" alt=""/>
                 <div className="card-body">
                   <h4 className="card-title"> Spas and Showers </h4>
                   {/* <p className="card-text">Remember to put more information </p> */}

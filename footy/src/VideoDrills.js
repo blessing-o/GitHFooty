@@ -11,7 +11,7 @@ const Drills = () => {
 
           <div class="col-lg-6 col-md-6 mb-3">
             <div class="card">
-              <img class="card-img-top expert-image" src="images/passingDrill.jpg" alt="Card image cap"/>
+              <img class="card-img-top expert-image" src="images/passingDrill.jpg" alt=""/>
               <div class="card-body">
                 <h4 class="card-title"> Passing Drills </h4>
                 <p class="card-text"><iframe
@@ -27,7 +27,7 @@ const Drills = () => {
 
           <div class="col-lg-6 col-md-6 mb-3">
             <div class="card">
-              <img class="card-img-top expert-image" src="images/shootingDrill.jpg" alt="Card image cap"/>
+              <img class="card-img-top expert-image" src="images/shootingDrill.jpg" alt=""/>
               <div class="card-body">
                 <h4 class="card-title"> Shooting Drills </h4>
                 <p class="card-text"><div>
@@ -45,7 +45,7 @@ const Drills = () => {
 
           <div class="col-lg-6 col-md-6 mb-3">
             <div class="card">
-              <img class="card-img-top expert-image" src="images/headingDrill.jpg" alt="Card image cap"/>
+              <img class="card-img-top expert-image" src="images/headingDrill.jpg" alt=""/>
               <div class="card-body">
                 <h4 class="card-title"> Heading Drills </h4>
                 <p class="card-text"><div>
@@ -63,7 +63,7 @@ const Drills = () => {
 
           <div class="col-lg-6 col-md-6 mb-3">
             <div class="card">
-              <img class="card-img-top expert-image" src="images/goalKeepingDrill.jpg" alt="Card image cap"/>
+              <img class="card-img-top expert-image" src="images/goalKeepingDrill.jpg" alt=""/>
               <div class="card-body">
                 <h4 class="card-title"> Goalkeeping Drills </h4>
                 <p class="card-text"><div>

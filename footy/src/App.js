@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import { BrowserRouter as Router, Route, Switch}  from 'react-router-dom';
 import './App.css';
 import NavBar from './Navbar';
@@ -19,7 +19,6 @@ function App() {
       <div className="content">
         <h1>works now for some reason</h1>
 
-        <Home></Home>
       <Switch>
         <Route exact path="/home">
           <Home></Home>

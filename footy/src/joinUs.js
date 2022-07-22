@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const J = () => {
-    const [val, setVal] = useState(0);
+    const [setVal] = useState(0);
 
     return (  
         <section className="joinUS">
